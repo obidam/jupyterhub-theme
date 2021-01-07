@@ -1,4 +1,5 @@
 # exclude jupyterhub created assets
+.idea/
 share
 jupyterhub-proxy.pid
 jupyterhub.sqlite

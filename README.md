@@ -1,4 +1,4 @@
-# Custom JupyterHub Template for QHub
+# Custom JupyterHub Templates for OBIDAM/Pangeo
 
 This repo contains html jinja2 templates for customising the
 appearance of JupyterHub. Each HTML file here will override the files
